@@ -78,7 +78,7 @@ function add_email_signature_options_printpage() {
 	Maintained by <strong>David Anderson</strong> (<a href="http://david.dw-perspective.org.uk">Homepage</a> | <a href="http://wordshell.net">WordShell - WordPress command line</a> | <a href="http://david.dw-perspective.org.uk/donate">Donate</a> | <a href="http://wordpress.org/extend/plugins/add-email-signature/faq/">FAQs</a>)
 	</p>
 
-	<p style="max-width: 600px;">Enter then signature which you wish to use here. Do not add the &quot;--&quot;, as it is assumed. If you wish to temporarily turn off the adding of signatures, then just disable the plugin (your settings will not be deleted).</p>
+	<p style="max-width: 600px;">Enter the signature which you wish to use here. Do not add the &quot;--&quot;, as it is assumed. If you wish to temporarily turn off the adding of signatures, then just disable the plugin (your settings will not be deleted).</p>
 	<form method="post" action="options.php">
 ENDHERE;
 	settings_fields('add_email_signature_options');
