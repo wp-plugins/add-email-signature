@@ -3,7 +3,7 @@ Contributors: David Anderson
 Tags: email, signature, mail, add signature
 Requires at least: 3.2
 Tested up to: 3.4.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Donate link: http://david.dw-perspective.org.uk/donate
 License: MIT
 
@@ -12,7 +12,11 @@ License: MIT
 This plugin adds a configurable signature to all outgoing emails from your WordPress site.
 
 == Upgrade Notice ==
-Fixed a typo
+Added screenshot
+
+== Screenshots ==
+
+1. Configuring a signature
 
 == Installation ==
 
@@ -32,6 +36,9 @@ This probably means that the plugin sending the mail is using its own mechanism 
 That's right. If you have some code that's capable of delving inside the HTML to do this correctly, then I'll be pleased to use it. But I couldn't think of a way.
 
 == Changelog ==
+
+= 1.0.2 11/19/2012 =
+Added a screenshot
 
 = 1.0.1 11/13/2012 =
 Fixed a typo

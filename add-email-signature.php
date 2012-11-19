@@ -1,14 +1,10 @@
 <?php
-/**
- * @package Add_Email_Signature
- * @version 1.0.1
- */
 /*
 Plugin Name: Add Email Signature
 Plugin URI: http://wordpress.org/extend/plugins/add-email-signature
 Description: This plugin adds a configurable signature to every outgoing email that WordPress sends
 Author: David Anderson
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://david.dw-perspective.org.uk
 License: MIT
 */
@@ -39,7 +35,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 if (!defined ('ABSPATH')) die ('No direct access allowed');
 
 # Globals
-define ('ADD_EMAIL_SIGNATURE_VERSION', '1.0.1');
+define ('ADD_EMAIL_SIGNATURE_VERSION', '1.0.2');
 define ('ADDEMAILSIG_SLUG', "add-email-signature");
 define ('ADDEMAILSIG_DIR', WP_PLUGIN_DIR . '/' . ADDEMAILSIG_SLUG);
 // define ('ADDEMAILSIG_URL', plugins_url()."/".ADDEMAILSIG_SLUG);
