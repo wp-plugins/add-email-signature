@@ -2,7 +2,7 @@
 Contributors: David Anderson
 Tags: email, signature, mail, add signature
 Requires at least: 3.2
-Tested up to: 3.4.2
+Tested up to: 3.5
 Stable tag: 1.0.2
 Donate link: http://david.dw-perspective.org.uk/donate
 License: MIT
