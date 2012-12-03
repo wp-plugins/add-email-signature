@@ -69,7 +69,7 @@ function add_email_signature_options_printpage() {
 	$pver = ADD_EMAIL_SIGNATURE_VERSION;
 
 	echo <<<ENDHERE
-<div class="wrap">
+	<div class="wrap">
 	<h2>Add Email Signature Options</h2>
 
 <div class="updated fade" style="font-size:140%; padding:14px;">${ws_advert}</div>
@@ -89,7 +89,23 @@ ENDHERE;
 	    <input type="submit" class="button-primary" value="Save Changes" />
 	    </p>
 	</form>
+
+<hr>
+	<h2>WordPress recommendations</h2>
+
+<p style="max-width: 600px;"><strong><a href="http://wordpress.org/extend/plugins/updraftplus">UpdraftPlus (backup plugin)</strong></a><br>Automated, scheduled WordPress backups via email, FTP, Amazon S3 or Google Drive
+</p>
+
+<p style="max-width: 600px;"><strong><a href="http://www.simbahosting.co.uk">WordPress maintenance and hosting</strong></a><br>We recommend Simba Hosting - 1-click WordPress installer and other expert services available - since 2007</p>
+
+<p style="max-width: 600px;"><strong><a href="http://wordpress.org/extend/plugins/no-weak-passwords">No Weak Passwords (plugin)</strong></a><br>This essential plugin forbids users to use any password from a list of known weak passwords which hackers presently use (gathered by statistical analysis of site break-ins).</p>
+
+<p style="max-width: 600px;"><strong><a href="http://wordpress.org/extend/plugins/use-administrator-password">Use Administrator Password (plugin)</strong></a><br>When installed, this plugin allows any administrator to use their own password to log in to any valid user's account. Very useful for logging in as another user without having to change passwords back and forth.</p>
+
 </div>
+
+
+
 ENDHERE;
 }
 
