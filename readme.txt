@@ -2,7 +2,7 @@
 Contributors: David Anderson
 Tags: email, signature, mail, add signature
 Requires at least: 3.2
-Tested up to: 3.5.1
+Tested up to: 3.6.0
 Stable tag: 1.0.3
 Donate link: http://david.dw-perspective.org.uk/donate
 License: MIT
@@ -37,17 +37,20 @@ That's right. If you have some code that's capable of delving inside the HTML to
 
 == Changelog ==
 
+= 1.0.3 04/24/2013 =
+- Marked as tested with WordPress 3.6
+
 = 1.0.3 12/03/2012 =
-Added links to other useful WordPress resources
+- Added links to other useful WordPress resources
 
 = 1.0.2 11/19/2012 =
-Added a screenshot
+- Added a screenshot
 
 = 1.0.1 11/13/2012 =
-Fixed a typo
+- Fixed a typo
 
 = 1.0 10/29/2012 =
-First version
+- First version
 
 == License ==
 
