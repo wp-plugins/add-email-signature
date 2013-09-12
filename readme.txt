@@ -1,5 +1,5 @@
 === Add Email Signature ===
-Contributors: David Anderson
+Contributors: DavidAnderson
 Tags: email, signature, mail, add signature
 Requires at least: 3.2
 Tested up to: 3.6.1
